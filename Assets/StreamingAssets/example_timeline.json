@@ -1,0 +1,9 @@
+{
+  "events": [
+    { "time": 0.0, "type": "light", "target": "key", "value": 1.2, "hold": false },
+    { "time": 4.2, "type": "light", "target": "rim", "value": 0.8, "hold": false },
+    { "time": 8.0, "type": "camera", "target": "CloseUp", "value": 1.0, "hold": false },
+    { "time": 12.5, "type": "expression", "target": "browDown", "value": 0.45, "hold": false },
+    { "time": 18.0, "type": "expression", "target": "smile", "value": 0.7, "hold": true }
+  ]
+}
