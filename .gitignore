@@ -1,0 +1,29 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# MemoryCaptures
+[Mm]emoryCaptures/
+
+# Recordings
+[Rr]ecordings/
+
+# Asset meta (keep these)
+!*.meta
+
+# IDE
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
